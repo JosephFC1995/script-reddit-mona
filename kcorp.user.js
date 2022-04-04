@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.4
 // @description  Recuperaremos lo que es nuestro por derecho.
-// @author       
+// @author       @Oswaldo28071486
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         
 // @grant        none
